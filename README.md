@@ -1,6 +1,6 @@
-## Your Name
+## Peter Allen
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A former aerospace engineer looking to move into software development. Over the last 10 years I have worked across several aircraft projects, becoming an expert in structural stress anlaysis and advanced modelling and simulation techniques. I've always been into technology, hence engineering, and taught myself to code in python finding out that I really enjoyed it. I get great satisfaction from solving problems and enjoy seeing a project  along with the opportunites to constanly learn and expand my skills.
 
 ## Projects
 
@@ -11,15 +11,23 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Ferchau Engineering UK** (July 2017 to May 2020)  
+Stress / FEA Engineer
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sitec Engineering Ltd.** (October 2015 to May 2017)  
+Stress / FEA Engineer
 
 - Any experience relevent to software development
+
+**Sogeti UK** (September 2013 to June 2015)  
+Stress / FEA Engineer
+
+- Any experience relevent to software development
+
+**Assystem UK Ltd.** (January 2010 to September 2013)  
+Graduate Engineer
 
 ## Skills
 
