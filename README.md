@@ -2,7 +2,7 @@
 
 A former aerospace engineer looking to move into software development. Over the last 10 years I have worked across several aircraft projects, becoming an expert in structural stress anlaysis and advanced modelling and simulation techniques. I've always been into technology and like learning new things so taught myself python and began employing it at work. I enjoyed the problem solving aspect and the satisfaction of creating useful tools which has led me to make a career change.
 
-[Education](##Education)
+[Education](#Education)
 
 
 ## Projects
