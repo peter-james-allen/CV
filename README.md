@@ -1,30 +1,27 @@
 ## Peter Allen
 
-A former aerospace engineer looking to move into software development. Over the last 10 years I have worked across several aircraft projects, becoming an expert in structural stress anlaysis and advanced modelling and simulation techniques. I've always been into technology, hence engineering, and taught myself to code in python finding out that I really enjoyed it. I get great satisfaction from solving problems and enjoy seeing a project  along with the opportunites to constanly learn and expand my skills.
+A former aerospace engineer looking to move into software development. Over the last 10 years I have worked across several aircraft projects, becoming an expert in structural stress anlaysis and advanced modelling and simulation techniques. I've always been into technology and like learning new things so taught myself python and began employing it at work. I enjoyed the problem solving aspect and the satisfaction of creating useful tools which has led me to make a career change.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Student Directory**        | A command line program to store student records | Ruby              |
 
 ## Experience
 
 **Ferchau Engineering UK** (July 2017 to May 2020)  
 Stress / FEA Engineer
 
-- Any experience relevent to software development
+- Created a program in python with a GUI using pyQT that took results from a structural simulation of the aircraft wing and stored the text based results into relational SQL databases. The program then combined results from multiple SQL files, applied different safety factors and then filtered the results on several criteria into a final output. This was achieved using numpy and pandas libraries with the combinations often created 100s of GB of data. The final results were visualised using matplotlib for checking then formatted back into text files that fed directly into the next analysis stage. The program was a success and very efficient, reducing the time of analysis from months to weeks.
 
 **Sitec Engineering Ltd.** (October 2015 to May 2017)  
 Stress / FEA Engineer
 
-- Any experience relevent to software development
+- Learnt python in my spare time and used it to streamline and automate processes
 
 **Sogeti UK** (September 2013 to June 2015)  
 Stress / FEA Engineer
-
-- Any experience relevent to software development
 
 **Assystem UK Ltd.** (January 2010 to September 2013)  
 Graduate Engineer
@@ -50,23 +47,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2021 to April 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Cardiff University (September 2006 to May 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BEng Mechanical Engineering, 2.1
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+**Sport:** I’m an active person and like to keep fit. I particularly enjoy travelling to the alps for cycling or skiing. I'm training to do a triathalon for the first time this year.
+
+**Music:** I love music and gong to gigs. I'm an active member of two bands, playing guitar, bass and drums at live shows and have recorded in the studio.
