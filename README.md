@@ -2,6 +2,9 @@
 
 A former aerospace engineer looking to move into software development. Over the last 10 years I have worked across several aircraft projects, becoming an expert in structural stress anlaysis and advanced modelling and simulation techniques. I've always been into technology and like learning new things so taught myself python and began employing it at work. I enjoyed the problem solving aspect and the satisfaction of creating useful tools which has led me to make a career change.
 
+[Education](##Education)
+
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -18,7 +21,7 @@ Stress / FEA Engineer
 **Sitec Engineering Ltd.** (October 2015 to May 2017)  
 Stress / FEA Engineer
 
-- Learnt python in my spare time and used it to streamline and automate processes
+- Learnt python in my spare time and used it to create tools that streamlined and automated processes at work
 
 **Sogeti UK** (September 2013 to June 2015)  
 Stress / FEA Engineer
@@ -28,22 +31,14 @@ Graduate Engineer
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem Solving
+Use analytical thinking and attention to detail to identify and fix issues. Motivated to investigate existing solutions and continually improve individual skills
 
-#### This Skill
+#### Communication
+Experienced in producing high quality technical documents used to support major design milestones and certification of aircraft. Confident in presenting  to senior team members and external customers with results, root causes and impacts being conveyed in a clear concise manner
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Reliability
+Proven track record in delivering work to external customers and internal teams on time to a high standard. Recognised by management for flexibility and collaboration, providing support to team members which has added to team productivity and performance
 
 ## Education
 
