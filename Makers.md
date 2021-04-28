@@ -1,186 +1,116 @@
-During my time at Makers Academy I st
+The following is an summary of what I covered during my time at Makers outlining what concepts I learnt each week along with examples of my code. Weeks 1-5 code was done purely in ruby, Javascript was introduced in week 6 and the final 2 week project is done using React with the MERN stack.
 
-Week 1
-Goals
-By the end of the week all developers can:
+## Week 1
 
-Test-drive a simple program using objects and methods
-Pair using the driver-navigator style
-Follow an effective debugging process
-Describe some basic OO principles like encapsulation, SRP
-Wider course goals this week should help with (see all course goals here)
-I can TDD anything
-By the end of this week you should be able to write a meaningful test, based on the user requirements. You'll then be able to write code using TDD, to make the test pass.
-I can program fluently
-You'll learn how to setup and structure a new Ruby project, and turn user requirements into working code.
-I can debug anything
-You'll be introduced to a technique for uncovering the root-cause of bugs in your code. When your code doesn't work, you'll be able to apply a consistent process to resolve the issue.
-Challenges
-Afternoons - Boris bikes
-End of unit - Airport
-Practicals
-These can be used by the devs independently, or enhanced by a coach delivering and offering structured process, group discussion, feedback, etc.
+### Learnt to
 
-Test Driving Exercises
-Test Driving Practice
-Debugging Approaches
-Git collaboration
-Encapsulation & Cohesion
-Testing behaviour rather than state
-Resources
-The 4 phases of a test
-The three rules of TDD
-Encapsulation on Wikipedia
-Technical Learning Resources
-Skills workshops
-Git
-Introduction to Debugging
-Encapsulation
-Mocking
-TDD a simple program
-Week 2
-By the end of the week all developers can:
+- Test-drive a simple program using objects and methods
+- Pair using the driver-navigator style
+- Follow an effective debugging process
+- Describe some basic OO principles like encapsulation, SRP
 
-Use all of week 1's skills (don't underestimate the importance of this)
-Break one class into two classes that work together, while maintaining test coverage
-Unit test classes in isolation using mocking
-Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
-Review another person's code and give them meaningful feedback
-You may notice you are completing the work quicker and with more ease than your peers. If this sounds like you, it's important to speak to a coach as they can provide additional challenge for you to make sure you continue to progress.
+### Examples
 
-Start attending process workshops to focus on your developer process. Anyone from any cohort ever can attend.
+- [Airport Challenge](https://github.com/peter-james-allen/airport_challenge)
 
-Watch a short video explaining what Reviews are and how to use this valuable resource - and then consider booking one!
+## Week 2
 
-Challenges
-Afternoons - Oystercard
-End of unit - Takeaway
-Practicals
-Testing behaviour over testing state
-Learning by building RSpec
-Dependency Injection
-Refactoring
-OO Relationships (Forwarding, Polymorphism)
-Testing OO Relationships using Mocking
-Refactoring with OO 1
-Resources
-Technical Learning Resources
-Skills workshops
-Code Review
-Domain modelling
-Domain modelling alternative
-Mocking
-Mocking with RSpec
-OOP 3: Delegate, Delegate, Delegate
-Making code simpler through polymorphism
-Week 3
-By the end of the week all developers can:
+### Learnt to
 
-Build a simple web app
-Follow an effective debugging process for web applications
-Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-Explain the MVC pattern
-Challenges
-Afternoons - Battle
-End of unit - RPS
-Practicals
-Servers
-Clients
-HTTP Servers
-Build a birthday greeter app (small project)
-Resources
-Technical Learning Resources
-Skills workshops
-Modelling the request/response cycle
-Debugging 2
-Week 4
-By the end of the week all developers can:
+- Break one class into two classes that work together, while maintaining test coverage
+- Unit test classes in isolation using mocking
+- Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+- Review another person's code and give them meaningful feedback
 
-Build a simple web app with a database
-Follow an effective debugging process for database applications
-Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables)
-Challenges
-Afternoons - Bookmark Manager
-End of unit - Chitter
-Practicals
-Entity Relationship Diagrams
-SQLZoo
-SQL Murder Mystery
-Build a diary app (small project)
-Resources
-Technical Learning Resources
-Skills workshops
-CRC Cards
-REST
-Week 5
-If you haven't already, start attending process workshops or using Reviews to focus on improving your developer process. Anyone from any cohort ever can use these resources!
+### Examples
 
-By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
+- [Takeaway Challenge](https://github.com/peter-james-allen/takeaway-challenge)
 
-Break down projects into tasks and allocate them to pairs
-Build to a specificiation (rather than challenges)
-Run stand-ups and retrospectives
-Use a branch/PR/merge git workflow
-Give and receive meaningful code review
-Challenges
-Weekdays - MakersBnB
-End of unit - Bowling
-Resources
-Technical Learning Resources
-Week 6
-By the end of the week all developers can:
+## Week 3
 
-Test drive a simple front-end web app with Javascript
-Follow an effective process for learning a new language
-Challenges
-Afternoons - Thermostat
-End of unit - Bowling continuation in JS
-Practicals
-Learning a new language by translation
-Explore asynchronicity in Javascript
-Closures
-Resources
-Count app: A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app. A useful guide for developers to use for concepts and idioms.
-Technical Learning Resources
-Skills workshops
-Encapsulation with the constructor & prototype pattern
-Following the flow and getting visibility
-Following the Ajax request/response cycle
-Callbacks and following the flow of control
-Week 7
-By the end of the week all developers can:
+### Learnt to
 
-Build a frontend single-page app using only pure Javascript.
-Request and use data from an external API.
-Explain that libraries are made of ordinary code that I could write myself if I needed to.
-Challenges
-Afternoon Group Project
-End of unit, either of:
-News summary
-Chitter API Frontend Challenge
-Practicals
-Modelling the flow of API calls with JS
-Reading beyond your level
-Explore Closures in JS
-Explore asynchronicity in Javascript
-Resources
-Technical Learning Resources
-Week 8-9
-See: Engineering project
+- Build a simple web app
+- Follow an effective debugging process for web applications
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- Explain the MVC pattern
 
-You will also complete your very last weekend challenge of the course at the end of Week 8.
+### Examples
 
-Challenges
-Instagram
-Resources
-Technical Learning Resources
-Week 10
-See: Individual challenges
+- [Rock, Paper, Scissors Challenge](https://github.com/peter-james-allen/rps-challenge)
 
-Resources
-Technical Learning Resources
-Week 11-12
-See Final Project
+## Week 4
 
-Resources
-Technical Learning Resources
+### Learnt to
+
+- Build a simple web app with a database
+- Follow an effective debugging process for database applications
+- Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables)
+
+### Examples
+
+- [Chitter Challenge](https://github.com/peter-james-allen/chitter-challenge)
+
+## Week 5
+
+This week was the first team project and we were introduced to the software development workflow
+
+### Learnt to
+
+- Break down projects into tasks and allocate them to pairs
+- Build to a specificiation (rather than challenges)
+- Run stand-ups and retrospectives
+- Use a branch/PR/merge git workflow
+- Give and receive meaningful code review
+
+### Examples
+
+- [Bowling Challenge (solo)](https://github.com/peter-james-allen/bowling-challenge-ruby)
+- [MakersBnB (team)](https://github.com/makersacademy/course/tree/master/makersbnb)
+
+## Week 6
+
+### Learnt to
+
+- Test drive a simple front-end web app with Javascript
+- Follow an effective process for learning a new language
+
+### Examples
+
+- [Bowling Challenge continuation in JS](https://github.com/peter-james-allen/bowling-challenge)
+
+## Week 7
+
+### Learnt to
+
+- Build a frontend single-page app using only pure (Vanilla) Javascript.
+- Request and use data from an external API.
+- Explain that libraries are made of ordinary code that I could write myself if I needed to.
+
+### Examples
+
+- [News summary Challenge (solo)](https://github.com/peter-james-allen/news-summary-challenge)
+- [Note App (team)](https://github.com/charlierdm/noteApp)
+
+## Week 8-9
+
+Weeks 8 and 9 were spent on a team project making a clone of facebook using ruby on rails for the first time.
+
+### Examples
+
+- [Instagram Challenge (solo)](https://github.com/peter-james-allen/instagram-challenge)
+- [Acebook Challenge (team)](https://github.com/ianmcnicholas/acebook-team.1)
+
+## Week 10
+
+This week was spent doing take home technical challenges focusing on writing code that is well tested, easy to read and easy to change.
+
+- [Bank Challenge](https://github.com/peter-james-allen/bank-tech-test)
+- [Gilded Rose Challenge](https://github.com/peter-james-allen/GildedRose-Refactoring-Kata)
+
+## Week 11-12
+
+The final two weeks were spent on a team project of our choice. We decided to create a mobile app that is based around the idea of a dopamine menu using the MERN stack.
+
+- [H-appy server](https://github.com/AJ8GH/h-appy-server)
+- [H-appy client](https://github.com/peter-james-allen/h-appy-client)
