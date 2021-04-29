@@ -42,7 +42,7 @@ Proven track record in delivering work to external customers and internal teams 
 
 ## Education
 
-#### Makers Academy (January 2021 to April 2021)
+#### Makers Academy (February 2021 to April 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
