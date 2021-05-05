@@ -18,16 +18,16 @@ Technology has always been an interest due to its constantly changing nature whi
 
 ## Experience
 
-**Ferchau Engineering UK** (July 2017 to May 2020)  
-Stress / FEA Engineer
+### Ferchau Engineering UK (July 2017 to May 2020)  
+### Stress / FEA Engineer
 Joined as a FE specialist to work on aircraft certification in a contractor role. 
 *	Created bespoke data analysis tools to speed up design e.g. a system to visualise results allowing us to quickly see the effects of changes to the structure; this facilitated weight savings in the final design by enabling several iterations
 *	Involved in the upkeep of large models of the entire wing structure, generating and processing large amounts of data and providing inputs for component teams
 *	Revamped the model interface load process by programming a tool in python that automated the factoring, combination and down-selection of results for thousands of fasteners across the entire wing, reducing the time of analysis from days to hours
 
 
-**Sitec Engineering Ltd.** (October 2015 to May 2017)  
-Stress / FEA Engineer
+### Sitec Engineering Ltd. (October 2015 to May 2017)  
+### Stress / FEA Engineer
 
 Headhunted by Airbus to join as a contractor through Sitec to act in a stress and integration role managing information flow between Sitec and Airbus.
 *	Responsible for all landing gear models and organisation/management of the model delivery team
@@ -35,16 +35,16 @@ Headhunted by Airbus to join as a contractor through Sitec to act in a stress an
 *	Presented modelling conclusions to the customer (Airbus); conveying results clearly using visual tools, highlighting impacts and analysing causes
 *	Learnt Python in my spare time and implemented it in the model checking and validation process, increasing efficiency
 
-**Sogeti UK** (September 2013 to June 2015)  
-Stress / FEA Engineer
+### Sogeti UK (September 2013 to June 2015)  
+### Stress / FEA Engineer
 
 Began to specialise in computer modelling and simulations.
 *	Responsible for debugging / fixing the most problematic and complex model which had become the most critical activity for the entire aircraft project at the time
 *	Created simple procedures to streamline the modelling creation and checking processes. This resulted in less failures and reduced running time
 
 
-**Assystem UK Ltd.** (January 2010 to September 2013)  
-Junior Engineer
+### Assystem UK Ltd. (January 2010 to September 2013)  
+### Junior Engineer
 
 Completed the graduate scheme and taken on as a junior engineer.
 *	Trained in analysis methods, technical report writing and documentation
