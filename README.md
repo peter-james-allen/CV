@@ -1,6 +1,11 @@
 ## Peter Allen
 
-A former aerospace engineer looking to move into software development. Over the last 10 years I have worked across several aircraft projects, becoming an expert in structural stress anlaysis and advanced modelling and simulation techniques. I've always been into technology and like learning new things so taught myself python and began employing it at work. I enjoyed the problem solving aspect and the satisfaction of creating useful tools which has led me to make a career change.
+An experienced and driven professional looking to move into software development having successfully completed a 16 week intensive bootcamp with Makers Academy. Uses Object Oriented Programming to create production ready code using a Test Driven Development approach in a team following agile methodology. Trained on both front and back-end projects using Ruby, JavaScript, Python and React.
+
+Highly skilled in data analysis, mathematical modelling and stimulations; having worked in permanent and contracting roles as an aerospace engineer for 10 years. A strong team player, able to adapt to needs of the team or client and motivated to develop skills to fit business requirements.
+
+Technology has always been an interest due to its constantly changing nature which gives opportunities for continuous learning and development and the chance to create new and exciting products.
+
 
 [Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies)
 
@@ -30,24 +35,26 @@ Stress / FEA Engineer
 Graduate Engineer
 
 ## Skills
-
 #### Problem Solving
-Use analytical thinking and attention to detail to identify and fix issues. Motivated to investigate existing solutions and continually improve individual skills
+Uses analytical thinking and excellent attention to detail to identify and fix issues. Motivated to continually improve individual skills to help find new solutions, for example learnt python in spare time in order to create tools to streamline and automate processes in engineering roles.
 
 #### Communication
-Experienced in producing high quality technical documents used to support major design milestones and certification of aircraft. Confident in presenting  to senior team members and external customers with results, root causes and impacts being conveyed in a clear concise manner
+Experienced in producing high quality technical documents used to support major design milestones and certification of aircraft. Confident in presenting to senior team members and external customers with results, root causes and impacts being conveyed in a clear concise manner
 
 #### Reliability
 Proven track record in delivering work to external customers and internal teams on time to a high standard. Recognised by management for flexibility and collaboration, providing support to team members which has added to team productivity and performance
 
 ## Education
 
-#### Makers Academy (February 2021 to April 2021)
+#### Makers Academy (January 2021 to April 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Completed 16 week bootcamp covering the following:
+•	TDD & BDD: Used test driven methodology to turn requirements into functioning code
+•	OOD & OOP: Applied SOLID principles to create code that is easy to modify and maintain
+•	Agile & XP: Team challenges organised using stand-ups, sprints, retros and Kanban boards
+•	Pair Programming: Daily pairing to build collaborative skills and imitate work environments
+•	EQ: Communication, feedback and empathy training to enable good working relationships
+•	Self-led learning: The autonomous course structure required initiative and organisational skills
 
 #### Cardiff University (September 2006 to May 2009)
 
@@ -57,4 +64,4 @@ Proven track record in delivering work to external customers and internal teams 
 
 **Sport:** I’m an active person and like to keep fit. I particularly enjoy travelling to the alps for cycling or skiing. I'm training to do a triathalon for the first time this year.
 
-**Music:** I love music and gong to gigs. I'm an active member of two bands, playing guitar, bass and drums at live shows and have recorded in the studio.
+**Music:** I am an active member of two bands, playing guitar, bass and drums at live gigs and recording in the studio. I also enjoy listening to music, going to gigs and festivals.
