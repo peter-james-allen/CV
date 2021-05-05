@@ -66,12 +66,12 @@ Proven track record in delivering work to external customers and internal teams 
 #### Makers Academy (January 2021 to April 2021)
 
 Completed 16 week bootcamp covering the following:
-•	TDD & BDD: Used test driven methodology to turn requirements into functioning code
-•	OOD & OOP: Applied SOLID principles to create code that is easy to modify and maintain
-•	Agile & XP: Team challenges organised using stand-ups, sprints, retros and Kanban boards
-•	Pair Programming: Daily pairing to build collaborative skills and imitate work environments
-•	EQ: Communication, feedback and empathy training to enable good working relationships
-•	Self-led learning: The autonomous course structure required initiative and organisational skills
+*	TDD & BDD: Used test driven methodology to turn requirements into functioning code
+*	OOD & OOP: Applied SOLID principles to create code that is easy to modify and maintain
+* Agile & XP: Team challenges organised using stand-ups, sprints, retros and Kanban boards
+*	Pair Programming: Daily pairing to build collaborative skills and imitate work environments
+*	EQ: Communication, feedback and empathy training to enable good working relationships
+*	Self-led learning: The autonomous course structure required initiative and organisational skills
 
 #### Cardiff University (September 2006 to May 2009)
 
