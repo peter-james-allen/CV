@@ -18,8 +18,9 @@ Technology has always been an interest due to its constantly changing nature whi
 
 ## Experience
 
-### Ferchau Engineering UK (July 2017 to May 2020)  
-### Stress / FEA Engineer
+### Ferchau Engineering UK (July 2017 to May 2020)
+***Stress / FEA Engineer***
+
 Joined as a FE specialist to work on aircraft certification in a contractor role. 
 *	Created bespoke data analysis tools to speed up design e.g. a system to visualise results allowing us to quickly see the effects of changes to the structure; this facilitated weight savings in the final design by enabling several iterations
 *	Involved in the upkeep of large models of the entire wing structure, generating and processing large amounts of data and providing inputs for component teams
@@ -27,7 +28,7 @@ Joined as a FE specialist to work on aircraft certification in a contractor role
 
 
 ### Sitec Engineering Ltd. (October 2015 to May 2017)  
-### Stress / FEA Engineer
+***Stress / FEA Engineer***
 
 Headhunted by Airbus to join as a contractor through Sitec to act in a stress and integration role managing information flow between Sitec and Airbus.
 *	Responsible for all landing gear models and organisation/management of the model delivery team
@@ -36,7 +37,7 @@ Headhunted by Airbus to join as a contractor through Sitec to act in a stress an
 *	Learnt Python in my spare time and implemented it in the model checking and validation process, increasing efficiency
 
 ### Sogeti UK (September 2013 to June 2015)  
-### Stress / FEA Engineer
+***Stress / FEA Engineer***
 
 Began to specialise in computer modelling and simulations.
 *	Responsible for debugging / fixing the most problematic and complex model which had become the most critical activity for the entire aircraft project at the time
@@ -44,7 +45,7 @@ Began to specialise in computer modelling and simulations.
 
 
 ### Assystem UK Ltd. (January 2010 to September 2013)  
-### Junior Engineer
+***Junior Engineer***
 
 Completed the graduate scheme and taken on as a junior engineer.
 *	Trained in analysis methods, technical report writing and documentation
