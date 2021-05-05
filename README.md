@@ -81,5 +81,5 @@ Completed 16 week bootcamp covering the following:
 
 ### Sport
 I’m an active person and like to keep fit. I particularly enjoy travelling to the alps for cycling or skiing. I'm training to do a triathalon for the first time this year.
-###Music
+### Music
 I am an active member of two bands, playing guitar, bass and drums at live gigs and recording in the studio. I also enjoy listening to music, going to gigs and festivals.
