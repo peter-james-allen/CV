@@ -17,6 +17,8 @@ Technology has always been an interest due to its constantly changing nature whi
 | [**H-Appy**](https://github.com/peter-james-allen/h-appy-client) | An activity finder iOS/Android app in the style of a restaurant menu, to remind you of fun things to do that make you happy. This was the final project of the bootcamp with the aim to work in a team, using high-quality processes to build an app in 2 weeks. | React Native, MongoDB Atlas, Express, Node, Expo, Jest & Chai |
 | [**Bank Tech Test**](https://github.com/peter-james-allen/bank-tech-test)        | A mock tech take home test to create a command line bank app. The focus was to create high quality well tested code that was easy to understand and change using DRY, SRP and encapsulation principles. | Ruby, RSpec              |
 | [**Bowling Score Card**](https://github.com/peter-james-allen/bowling-challenge-javascript) | An interactive bowling score card which calculates and displays running score. | HTML, CSS, JavaScript, jQuery, Jasmine |
+| [**Instagram Clone**](https://github.com/peter-james-allen/instagram-challenge) | A clone of instagram. This was a challenge designed to improve my understanding of the rails framework | Ruby, Rails, HTML, CSS, jQuery, postgreSQL, RSpec |
+| [**Twitter Clone**](https://github.com/peter-james-allen/chitter-challenge) | A clone of twitter. This was a challenge designed to improve my understanding of the MVC architecture to create a web app | Ruby, HTML, CSS, postgreSQL, RSpec |
 
 ## Experience
 
