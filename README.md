@@ -7,7 +7,7 @@ Highly skilled in data analysis, mathematical modelling and stimulations; having
 Technology has always been an interest due to its constantly changing nature which gives opportunities for continuous learning and development and the chance to create new and exciting products.
 
 
-[Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies)
+[Projects](#projects) | [Key Skills](#key-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
 
 
 ## Projects
@@ -20,7 +20,19 @@ Technology has always been an interest due to its constantly changing nature whi
 | [**Instagram Clone**](https://github.com/peter-james-allen/instagram-challenge) | A clone of instagram. This was a challenge designed to improve my understanding of the rails framework | Ruby, Rails, HTML, CSS, jQuery, postgreSQL, RSpec |
 | [**Twitter Clone**](https://github.com/peter-james-allen/chitter-challenge) | A clone of twitter. This was a challenge designed to improve my understanding of the MVC architecture to create a web app | Ruby, HTML, CSS, postgreSQL, RSpec |
 
-## Experience
+
+## Key Skills
+#### Problem Solving
+Uses analytical thinking and excellent attention to detail to identify and fix issues. Motivated to continually improve individual skills to help find new solutions, for example learnt python in spare time in order to create tools to streamline and automate processes in engineering roles.
+
+#### Communication
+Experienced in producing high quality technical documents used to support major design milestones and certification of aircraft. Confident in presenting to senior team members and external customers with results, root causes and impacts being conveyed in a clear concise manner
+
+#### Reliability
+Proven track record in delivering work to external customers and internal teams on time to a high standard. Recognised by management for flexibility and collaboration, providing support to team members which has added to team productivity and performance
+
+
+## Work Experience
 
 ### Ferchau Engineering UK (July 2017 to May 2020)
 ***Stress / FEA Engineer***
@@ -54,17 +66,6 @@ Began to specialise in computer modelling and simulations.
 Completed the graduate scheme and taken on as a junior engineer.
 *	Trained in analysis methods, technical report writing and documentation
 *	Chosen to represent the company on site with the customer for a military program
-
-
-## Skills
-#### Problem Solving
-Uses analytical thinking and excellent attention to detail to identify and fix issues. Motivated to continually improve individual skills to help find new solutions, for example learnt python in spare time in order to create tools to streamline and automate processes in engineering roles.
-
-#### Communication
-Experienced in producing high quality technical documents used to support major design milestones and certification of aircraft. Confident in presenting to senior team members and external customers with results, root causes and impacts being conveyed in a clear concise manner
-
-#### Reliability
-Proven track record in delivering work to external customers and internal teams on time to a high standard. Recognised by management for flexibility and collaboration, providing support to team members which has added to team productivity and performance
 
 ## Education
 
