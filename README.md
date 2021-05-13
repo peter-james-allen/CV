@@ -1,10 +1,6 @@
 # Peter Allen
 
-An experienced and driven professional looking to move into software development having successfully completed a 16 week intensive bootcamp with Makers Academy. Uses Object Oriented Programming to create production ready code using a Test Driven Development approach in a team following agile methodology. Trained on both front and back-end projects using Ruby, JavaScript, Python and React.
-
-Highly skilled in data analysis, mathematical modelling and stimulations; having worked in permanent and contracting roles as an aerospace engineer for 10 years. A strong team player, able to adapt to needs of the team or client and motivated to develop skills to fit business requirements.
-
-Technology has always been an interest due to its constantly changing nature which gives opportunities for continuous learning and development and the chance to create new and exciting products.
+A driven and resourceful professional highly skilled in data analysis, mathematical modelling/stimulation having worked as an aerospace engineer for 10 years. After learning python as a hobby then applying it in previous roles, completed a 16 week intensive software development bootcamp with Makers. The dynamic nature of the technology industry has always been of interest due to its constantly changing nature, opportunities for continuous development and chance to create new and exciting products.
 
 
 [Projects](#projects) | [Key Skills](#key-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
