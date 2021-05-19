@@ -1,6 +1,8 @@
 # Peter Allen
 
-A driven and resourceful professional highly skilled in data analysis, mathematical modelling/simulation having worked as an aerospace engineer for 10 years. After learning python as a hobby then applying it in previous roles, completed a 16 week intensive software development bootcamp with Makers. The dynamic nature of the technology industry has always been of interest due to its constantly changing nature, opportunities for continuous development and chance to create new and exciting products.
+A driven and resourceful professional highly skilled in data analysis and mathematical modelling/simulation having worked as an aerospace engineer for 10 years. Have always taken opportunities to develop technical skills; Self-taught python after realising the potential impact for efficiency/automation at work.
+
+Recently completed a 16 week intensive software development bootcamp with Makers Academy to pursue a career in the tech industry; something that has always been of interest due to its exciting and dynamic nature.
 
 
 [Projects](#projects) | [Key Skills](#key-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
